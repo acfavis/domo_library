@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/posts/2023-02-02_DojoSQL/index.html",
+      "/projects/posts/2023-02-02_DojoFeatures/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/2023-03-13-Custom_Roles/index.html",
+      "/blog/posts/2023-01-24_Domo_Onboarding/index.html",
+      "/blog/posts/2023-01-24_DomoVariables/index.html",
+      "/blog/posts/2023-01-24-Domo_Everywhere_MultiInstance/index.html"
+    ]
+  }
+]
